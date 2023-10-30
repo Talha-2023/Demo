@@ -1,4 +1,6 @@
 # Demo
 This is My First Git Repository .
-<br> <br>
-Author- Syed Talha Ahmed fsd
+<br>
+Author- Syed Talha Ahmed <br>
+Changes from VS Code
+
